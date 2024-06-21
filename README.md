@@ -1,6 +1,6 @@
-Since the 1.x release, the [Prometheus Java client library](https://github.com/prometheus/client_java) supports [pushing metrics in OpenTelemetry format](https://prometheus.github.io/client_java/otel/otlp/).
+Example of the [Prometheus Java client library's](https://github.com/prometheus/client_java) support for [pushing metrics in OpenTelemetry format](https://prometheus.github.io/client_java/otel/otlp/).
 
-This repository is a simple example that shows how to push Prometheus metrics to the Prometheus server using OTLP.
+This repository is a simple example that shows how to push Prometheus metrics to a Prometheus server using OTLP.
 
 Clone this repo:
 
